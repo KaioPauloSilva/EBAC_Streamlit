@@ -1,55 +1,52 @@
-# Título do projeto
+# Análise de Dados de Telemarketing
 
-Um simples resumo do uso/propósito do projeto.
+Este é um projeto de análise de dados de telemarketing desenvolvido como parte do curso de Cientista de Dados da EBAC. Ele inclui um webapp em Streamlit hospedado no Render para visualização interativa dos resultados.
 
-## Descrição do projeto
+## Descrição do Projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Este projeto visa analisar os dados de telemarketing para identificar insights e padrões que podem ser úteis para a tomada de decisões de negócios. Utilizamos técnicas de análise de dados e criamos um webapp em Streamlit para facilitar a visualização dos resultados.
 
 ## Utilização
 
-### Dependencias
+Para visualizar o webapp, acesse o link abaixo:
+[Webapp Telemarketing](https://telemarketing-4vim.onrender.com/)
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+### Requisistos
+
+Para executar o webapp localmente ou contribuir para o projeto, você precisará das seguintes dependências:
+
+- Python 3.x
+- Bibliotecas Python (listadas no arquivo `requirements.txt`)
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+Para instalar o webapp em sua máquina, siga estas etapas:
+
+1. Abra o terminal na pasta em que deseja que o repositório seja instalado.
+
+bash
+git clone https://github.com/KaioPauloSilva/EBAC_Streamlit
+cd EBAC_Streamlit
+pip install -r requirements.txt
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+Para executar o webapp, siga estas etapas:
+
+- Navegue até a pasta onde o repositório está localizado localmente.
+- Abra o Git Bash ou CMD.
+  Execute o seguinte comando:
+- streamlit run app_7.py
 
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+Observe que a máquina na qual o webapp está hospedado pode ser lenta, pois é uma versão gratuita.
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
+Kaio Paulo  
+[@KaioPauloSilva](https://www.linkedin.com/in/kaio-paulo-silva-331807187/)
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
